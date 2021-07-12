@@ -12,7 +12,7 @@ typedef int BOOLEAN;                                    // Type cast int into BO
 // Return value :       BOOLEAN
 // Description :        It is used to check number is divisible by 5 or not
 // Author :             Akash Ankush Kashid
-// Date :               3 Jun 2021
+// Date :               12 Jul 2021
 //
 //////////////////////////////////////////////////////////////
 
